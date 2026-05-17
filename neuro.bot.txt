@@ -1,0 +1,3 @@
+@echo off
+:: This launches your virtual environment Python and runs NeuroShell
+"C:\Users\Sarthak\CS\NeuroShell\venv\Scripts\python.exe" "C:\Users\Sarthak\CS\NeuroShell\main.py" %*
